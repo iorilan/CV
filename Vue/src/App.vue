@@ -226,7 +226,7 @@ Working Experience
 
 Education
 ----
-Beihang University Beihai college (Software Engineering) Degree
+Beihang University (Software Engineering) Degree
 
 Links
 ----
